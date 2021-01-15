@@ -15,6 +15,6 @@ for (let i=0; i<allTheLocations.length; i++) {
 
 console.log(locationListHTMLString);
 
-locationContainer.innerHTML = `<h2> Locations Visited <h2> ${locationListHTMLString}`;
+locationContainer.innerHTML = ` ${locationListHTMLString}`;
 
 }

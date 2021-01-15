@@ -36,6 +36,14 @@
     background-color: aqua;
   }
   
+  /* .fish-list {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 1em;
+    width: 70%;
+    text-align: center;
+  } */
   .fish-card {
     display: flex;
     align-items: center;
@@ -48,14 +56,16 @@
     text-align: center;
   }
   
-  .location-list {
-    flex-wrap: wrap;
+   #location-list {
+    display: flex;
+    flex-flow: wrap row;
     justify-content: space-evenly;
     text-align: center;
+    
   }
   
   .location-card {
-    border: 1px solid black;clear
+    border: 1px solid black;
     margin: 1em;
   }
   
