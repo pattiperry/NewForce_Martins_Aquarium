@@ -6,6 +6,7 @@
   
   img {
     height: 20vh;
+    width: 19vw;
   }
   
   h2 {
@@ -49,8 +50,14 @@
     align-items: center;
     border: 1px solid black;
     padding-left: 1em;
+    background-color: aqua;
+    padding: 1em;
   }
   
+  .fish-card_image {
+    width: 23%;
+  }
+
   .fish-card__text {
     width: 70%;
     text-align: center;
@@ -67,6 +74,7 @@
   .location-card {
     border: 1px solid black;
     margin: 1em;
+    width: 
   }
   
   /* .location-card img {
