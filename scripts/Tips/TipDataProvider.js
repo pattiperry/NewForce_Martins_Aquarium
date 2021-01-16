@@ -1,12 +1,12 @@
 const tipsCollection = [
 {
     tipSubject: "Salinity",
-    tipInfo: "Keep it salty",
-    tipInfo: "Just dump in some salt"
+    tipInfo1: "Keep it salty",
+    tipInfo2: "Just dump in some salt"
 },
 {   tipSubject: "Temperature",
-    tipInfo: "Very hot",
-    tipInfo: "Basically boiling"
+    tipInfo1: "Very hot",
+    tipInfo2: "Basically boiling"
 }
 ]
 
